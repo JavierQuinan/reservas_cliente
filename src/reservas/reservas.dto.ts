@@ -20,7 +20,4 @@ import {
     @IsNotEmpty({ message: 'El campo es requerido' })
     precio: string;
    
-  
-    //@IsEmail()
-    //email: string;
   }
